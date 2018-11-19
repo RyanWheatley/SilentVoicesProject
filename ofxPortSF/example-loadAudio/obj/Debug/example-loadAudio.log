@@ -1,0 +1,33 @@
+﻿  ofxPortSF.cpp
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(582): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(583): error C2065: 'fld': undeclared identifier
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(584): error C2146: syntax error: missing ';' before identifier 'fval'
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(584): error C2146: syntax error: missing ';' before identifier 'fistp'
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(584): error C2065: 'fistp': undeclared identifier
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(585): error C2146: syntax error: missing ';' before identifier 'result'
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(585): error C2146: syntax error: missing ';' before identifier 'mov'
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(585): error C2065: 'mov': undeclared identifier
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(585): error C2146: syntax error: missing ';' before identifier 'eax'
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(585): error C2065: 'eax': undeclared identifier
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(586): error C2143: syntax error: missing ';' before '}'
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(969): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(988): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(1526): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(1531): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(2269): warning C4018: '>': signed/unsigned mismatch
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(2874): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(2882): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(3387): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(549): note: see declaration of 'stricmp'
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(3389): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(549): note: see declaration of 'stricmp'
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(3391): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(549): note: see declaration of 'stricmp'
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(3394): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(549): note: see declaration of 'stricmp'
+c:\users\ryan wheatley\documents\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxportsf\libs\ofxportsf.cpp(3396): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(549): note: see declaration of 'stricmp'
